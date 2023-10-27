@@ -4,6 +4,7 @@ A continuació trobareu les slides de les xerrades i tallers que es van dur a te
 
 ## Slides
 
+- <a taget="_blank" href="slides/20231021_gdg_girona_kubernetes_workshop.pdf">"k8s 101, introducció a Kubernetes"</a> per Carlos Alfonso
 - <a taget="_blank" href="slides/PresentacioHomeAssistantHacktoberFest.pdf">"Domòtica Open Source"</a> per Ruben Guerrero - TecnoAteneu de Vilablareix
 - <a taget="_blank" href="https://slides.com/oscartiendabeteta/me_suenas">"Me suenas, ¿cómo nos conocimos antes de conocernos?"</a> per Óscar Tienda Beteta
 

@@ -4,5 +4,7 @@ A continuació trobareu les slides de les xerrades i tallers que es van dur a te
 
 ## Slides
 
-- <a taget="_blank" href="slides/PresentacioHomeAssistantHacktoberFest.pdf">Domòtica Open Source"</a> Ruben Guerrero - TecnoAteneu de Vilablareix
-- 
+- <a taget="_blank" href="slides/PresentacioHomeAssistantHacktoberFest.pdf">"Domòtica Open Source"</a> per Ruben Guerrero - TecnoAteneu de Vilablareix
+- <a taget="_blank" href="https://slides.com/oscartiendabeteta/me_suenas">"Me suenas, ¿cómo nos conocimos antes de conocernos?"</a> per Óscar Tienda Beteta
+
+

@@ -1,5 +1,9 @@
 # 3a Festa OpenSource 2023 - Slides
 
+Si voleu estar al corrent de les novetats i futurs esdeveniments [afegiu-vos a la nostra newsletter](https://geekscat.us2.list-manage.com/subscribe/post?u=04c7e5f2cdec77b33da4fb17e&id=c91e51c76c).
+
+No perdeu l'oportunitat d'afegir-vos a la comunitat [GDG Girona](https://gdg.community.dev/gdg-girona/).
+
 A continuació trobareu les slides de les xerrades i tallers que es van dur a terme durant la <a href="https://hacktoberfest.geeks.cat" target="_blank">3a Festa OpenSource a Girona</a>.
 
 ## Slides

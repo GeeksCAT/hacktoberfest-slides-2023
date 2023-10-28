@@ -20,3 +20,4 @@ A continuació trobareu les slides de les xerrades i tallers que es van dur a te
 - <a taget="_blank" href="slides/20231021_gdg_girona_kubernetes_workshop.pdf">"k8s 101, introducció a Kubernetes"</a> per Carlos Alfonso
 - <a taget="_blank" href="slides/Flutter Development Roadmap.pptx">"Flutter, la nueva era de aplicaciones móviles"</a> per [Victor Carreras](https://twitter.com/vcarreras9)
 - <a taget="_blank" href="slides/PresentacioHomeAssistantHacktoberFest.pdf">"Domòtica Open Source"</a> per [Ruben Guerrero](https://twitter.com/rubenguerrero) - [TecnoAteneu de Vilablareix](https://www.tecnoateneu.cat/)
+- <a taget="_blank" href="https://gironajs.com/ca/blog/web-scraping-de-feines-a-linkedIn-utilitzant-puppeteer-i-rxjs">"Web Scraping d'ofertes de feina a LinkedIn utilitzant Puppeteer i RxJS"</a> per [Llorenç Pujol](https://github.com/llorenspujol)
